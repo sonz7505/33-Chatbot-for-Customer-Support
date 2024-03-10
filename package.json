@@ -1,0 +1,26 @@
+{
+"name": "33-mnbj-lo",
+"version": "1.0.0",
+"description": "Enhance your customer service with an intelligent chatbot that provides instant support.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/sonz7505/33-Chatbot-for-Customer-Support.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "sonz7505",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
